@@ -778,7 +778,7 @@ public class NavigationActivity extends Activity
 
             AlertDialog dialog = DialogHelper.createAlertDialog(this,
                     R.drawable.ic_launcher, R.string.welcome_title,
-                    getString(R.string.welcome_msg), false);
+                    getString(R.string.welcome_msg_mk), false);
             DialogHelper.delegateDialogShow(this, dialog);
 
             // Don't display again this dialog
