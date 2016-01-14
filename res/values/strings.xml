@@ -840,5 +840,6 @@
     <string name="welcome_title">Welcome</string>
 
     <string name="activity_not_found_exception">Couldn\'t find an app to open this file</string>
+    <string name="storage_permissions_denied">Storage permissions denied!</string>
 
 </resources>
