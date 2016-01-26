@@ -412,4 +412,5 @@
   <string name="changelog_title">Евиденција промена</string>
   <string name="welcome_title">Добродошли</string>
   <string name="activity_not_found_exception">Не могу наћи апликацију за отварање овог фајла</string>
+  <string name="storage_permissions_denied">Апликацију није могуће покренути без дозволе да пише у спољно складиште.</string>
 </resources>

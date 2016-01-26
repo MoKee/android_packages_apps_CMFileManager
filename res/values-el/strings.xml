@@ -403,4 +403,5 @@
   <string name="changelog_title">Αρχείο αλλαγών</string>
   <string name="welcome_title">Καλώς ήλθατε</string>
   <string name="activity_not_found_exception">Δεν βρέθηκε εφαρμογή για το άνοιγμα αυτού του αρχείου</string>
+  <string name="storage_permissions_denied">Η εφαρμογή δεν μπορεί να λειτουργήσει χωρίς άδεια εγγραφής στον εξωτερικό αποθ. χώρο.</string>
 </resources>

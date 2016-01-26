@@ -403,4 +403,5 @@
   <string name="changelog_title">Changelog</string>
   <string name="welcome_title">Benvenuti</string>
   <string name="activity_not_found_exception">Impossibile trovare un app per aprire questo file</string>
+  <string name="storage_permissions_denied">L\'app non può essere eseguita senza il permesso per accedere alla memoria.</string>
 </resources>
