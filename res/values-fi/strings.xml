@@ -403,4 +403,7 @@
   <string name="changelog_title">Muutosloki</string>
   <string name="welcome_title">Tervetuloa</string>
   <string name="activity_not_found_exception">Tiedoston avaamiseen sopivaa sovellusta ei löydy</string>
+  <string name="storage_permissions_denied">Tiedostonhallinta tarvitsee käyttöoikeudet tallennustilaan näyttääkseen tiedostosi.</string>
+  <string name="storage_permissions_explanation">Mene Asetuksiin, ja valitse Käyttöoikeudet myöntääksesi luvan.</string>
+  <string name="snackbar_settings">Asetukset</string>
 </resources>

@@ -382,4 +382,5 @@
   <string name="security_warning_extract">අවවාදයයි!\n\nසාපේක්ෂ හෝ ඒකාන්ත මංපෙත් සහිත හැකිලුනු ගොනුවක් අද ගැනීමේදී, පද්ධති ගොනු උඩින් ලිවීමක් සිදුවී ඔබගේ උපාංගයට හානි පැමිණිය හැක.\n\nඔබට ඉදිරියට යාමය අවශ්‍යද?</string>
   <string name="changelog_title">වෙනස්කම් ලොගය</string>
   <string name="welcome_title">ආයුබෝවන්</string>
+  <string name="snackbar_settings">සැකසීම්</string>
 </resources>

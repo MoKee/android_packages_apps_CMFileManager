@@ -406,4 +406,5 @@
   <string name="changelog_title">Registro de cambios</string>
   <string name="welcome_title">Bienvenido</string>
   <string name="activity_not_found_exception">No se pudo encontrar una aplicación para abrir este archivo</string>
+  <string name="snackbar_settings">Ajustes</string>
 </resources>

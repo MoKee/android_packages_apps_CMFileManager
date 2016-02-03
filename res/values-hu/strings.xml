@@ -403,4 +403,7 @@
   <string name="changelog_title">Változások</string>
   <string name="welcome_title">Üdvözöljük</string>
   <string name="activity_not_found_exception">Nem található alkalmazás a fájl megnyitásához</string>
+  <string name="storage_permissions_denied">Fájlkezelő engedélyt kér a tárolóhoz annak érdekében, hogy lássa a fájlokat.</string>
+  <string name="storage_permissions_explanation">Menjen a Beállításokba, majd koppintson a Jogosultságokra az engedély megadásához.</string>
+  <string name="snackbar_settings">Beállítások</string>
 </resources>

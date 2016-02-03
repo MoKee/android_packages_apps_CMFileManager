@@ -404,4 +404,7 @@
   <string name="changelog_title">Lista de alterações</string>
   <string name="welcome_title">Bem-vindo</string>
   <string name="activity_not_found_exception">Não foi encontrada nenhuma aplicação para abrir este ficheiro</string>
+  <string name="storage_permissions_denied">O Gestor de Ficheiros necessita de permissões para aceder ao armazenamento, de forma a poder ver os seus ficheiros.</string>
+  <string name="storage_permissions_explanation">Vá a Definições e toque em Permissões para conceder permissão.</string>
+  <string name="snackbar_settings">Definições</string>
 </resources>

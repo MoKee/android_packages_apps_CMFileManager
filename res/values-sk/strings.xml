@@ -410,4 +410,5 @@
   <string name="changelog_title">Zoznam zmien</string>
   <string name="welcome_title">Vitajte</string>
   <string name="activity_not_found_exception">Nepodarilo sa nájsť aplikáciu na otvorenie tohto súboru</string>
+  <string name="snackbar_settings">Nastavenia</string>
 </resources>

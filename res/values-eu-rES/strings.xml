@@ -403,5 +403,7 @@
   <string name="changelog_title">Aldaketa-egunkaria</string>
   <string name="welcome_title">Ongi etorri</string>
   <string name="activity_not_found_exception">Ezin izan da aplikazio bat aurkitu fitxategi hau irekitzeko</string>
-  <string name="storage_permissions_denied">Aplikazioa ez dabil kanpo biltegiratzera idazteko baimenik gabe.</string>
+  <string name="storage_permissions_denied">Fitxategi kudeatzaileak biltegiratze baimena behar du zure fitxategiak ikusteko.</string>
+  <string name="storage_permissions_explanation">Zoaz ezarpenetara eta sakatu Baimenak baimena emateko.</string>
+  <string name="snackbar_settings">Ezarpenak</string>
 </resources>

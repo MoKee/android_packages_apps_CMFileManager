@@ -404,4 +404,5 @@
   <string name="changelog_title">การเปลี่ยนแปลง</string>
   <string name="welcome_title">ยินดีต้อนรับ</string>
   <string name="activity_not_found_exception">ไม่พบแอปที่เปิดไฟล์นี้ได้</string>
+  <string name="snackbar_settings">การตั้งค่า</string>
 </resources>

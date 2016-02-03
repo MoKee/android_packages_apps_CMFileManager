@@ -402,4 +402,5 @@
   <string name="changelog_title">परिवर्तन लॉग</string>
   <string name="welcome_title">स्वागत</string>
   <string name="activity_not_found_exception">इस फ़ाइल को खोलने के लिए कोई ऐप नहीं मिला</string>
+  <string name="snackbar_settings">सेटिंग</string>
 </resources>

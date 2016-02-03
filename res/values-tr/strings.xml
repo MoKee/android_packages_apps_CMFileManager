@@ -403,4 +403,5 @@
   <string name="changelog_title">Değişiklik kaydı</string>
   <string name="welcome_title">Hoş geldiniz</string>
   <string name="activity_not_found_exception">Bu dosyayı açacak uygulama bulunamadı</string>
+  <string name="snackbar_settings">Ayarlar</string>
 </resources>

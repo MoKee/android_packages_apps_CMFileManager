@@ -403,4 +403,5 @@
   <string name="changelog_title">Nhật ký thay đổi</string>
   <string name="welcome_title">Chào mừng</string>
   <string name="activity_not_found_exception">Không thể tìm thấy ứng dụng nào để mở tập tin này</string>
+  <string name="snackbar_settings">Cài đặt</string>
 </resources>

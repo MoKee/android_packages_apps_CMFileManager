@@ -402,4 +402,5 @@
   <string name="changelog_title">Ŝanĝoprotokolo</string>
   <string name="welcome_title">Bonvenon</string>
   <string name="activity_not_found_exception">Ne eblas trovi aplikaĵon por malfermi tiun dosieron</string>
+  <string name="snackbar_settings">Agordoj</string>
 </resources>

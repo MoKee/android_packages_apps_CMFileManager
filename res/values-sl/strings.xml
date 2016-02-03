@@ -401,5 +401,7 @@
   <string name="security_warning_extract">Opozorilo! \n\nRazširjanje arhivske datoteke z relativno ali absolutno potjo lahko poškoduje napravo s prepisom sistemskih datotek.\n\nAli želite nadaljevati?</string>
   <string name="changelog_title">Dnevnik sprememb</string>
   <string name="welcome_title">Dobrodošli</string>
-  <string name="storage_permissions_denied">Ta aplikacija ne deluje brez dovoljenja za pisanje na zunanjo pomnilniško napravo.</string>
+  <string name="storage_permissions_denied">Upravljalnik datotek potrebuje dovoljenje za pomnilniško napravo za prikaz vaših datotek.</string>
+  <string name="storage_permissions_explanation">Pojdite v Nastavitve in tapnite Dovoljenja za odobritev dovoljenja.</string>
+  <string name="snackbar_settings">Nastavitve</string>
 </resources>

@@ -428,4 +428,7 @@
   <string name="changelog_title">更改记录</string>
   <string name="welcome_title">欢迎</string>
   <string name="activity_not_found_exception">无可用于打开此文件的应用</string>
+  <string name="storage_permissions_denied">文件管理器需要存储权限以便查看您的文件。</string>
+  <string name="storage_permissions_explanation">进入设置，然后点击权限以授予权限。</string>
+  <string name="snackbar_settings">设置</string>
 </resources>

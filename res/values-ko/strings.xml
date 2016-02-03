@@ -403,4 +403,5 @@
   <string name="changelog_title">변경 사항</string>
   <string name="welcome_title">환영합니다</string>
   <string name="activity_not_found_exception">이 파일을 열 수 있는 앱이 없음</string>
+  <string name="snackbar_settings">설정</string>
 </resources>

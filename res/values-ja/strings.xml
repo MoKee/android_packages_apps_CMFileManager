@@ -404,4 +404,7 @@
   <string name="changelog_title">更新履歴</string>
   <string name="welcome_title">ようこそ</string>
   <string name="activity_not_found_exception">このファイルを開くためのアプリが見つかりませんでした</string>
+  <string name="storage_permissions_denied">ファイルマネージャーはファイルを表示するためにストレージの権限を必要とします。</string>
+  <string name="storage_permissions_explanation">設定に移動して、権限を許可するために権限をタップしてください。</string>
+  <string name="snackbar_settings">設定</string>
 </resources>

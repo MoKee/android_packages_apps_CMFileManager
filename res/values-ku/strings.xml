@@ -385,4 +385,5 @@
   <string name="security_warning_extract">ئاگاداربه‌!!\n\nده‌رهێنانی په‌ڕگه‌کانی ئه‌رشیفێک له‌گه‌ڵ ڕێژه‌ یان ته‌واوی ڕێره‌و له‌وانه‌یه‌ هۆکاری ڕوخانی ئامێره‌که‌ت بێت به‌ جێگه‌خستنه‌وه‌ی په‌ڕگه‌کانی سیسته‌م.\n\nئه‌ته‌وێ به‌رده‌وام بیت؟</string>
   <string name="changelog_title">تۆماری گۆڕانکاری</string>
   <string name="welcome_title">بە خێربێيت</string>
+  <string name="snackbar_settings">ڕێکخستنه‌کان</string>
 </resources>

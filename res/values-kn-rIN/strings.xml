@@ -403,4 +403,5 @@
   <string name="changelog_title">ಬದಲಾವಣೆಲಾಗ್</string>
   <string name="welcome_title">ಸುಸ್ವಾಗತ</string>
   <string name="activity_not_found_exception">ಈ ಕಡತವನ್ನು ತೆರೆಯಲು ಯಾವುದೇ ಆಪ್ ಪತ್ತೆಯಾಗಲಿಲ್ಲ</string>
+  <string name="snackbar_settings">ಸೆಟ್ಟಿಂಗ್ಸ್</string>
 </resources>

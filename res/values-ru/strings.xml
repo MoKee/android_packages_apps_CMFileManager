@@ -410,4 +410,7 @@
   <string name="changelog_title">Список изменений</string>
   <string name="welcome_title">Добро пожаловать!</string>
   <string name="activity_not_found_exception">Не найдено приложения для открытия этого файла</string>
+  <string name="storage_permissions_denied">Файловому менеджеру требуется разрешение на доступ к памяти устройства для просмотра ваших файлов.</string>
+  <string name="storage_permissions_explanation">Перейдите в Настройки и нажмите «Разрешения», чтобы предоставить доступ.</string>
+  <string name="snackbar_settings">Настройки</string>
 </resources>

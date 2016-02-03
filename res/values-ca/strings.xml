@@ -407,5 +407,7 @@
   <string name="changelog_title">Registre de canvis</string>
   <string name="welcome_title">Benvingut</string>
   <string name="activity_not_found_exception">No s\'ha pogut trobar una app per obrir aquest arxiu</string>
-  <string name="storage_permissions_denied">L\'aplicació no pot funcionar sense permís per escriure a l\'emmagatzematge extern.</string>
+  <string name="storage_permissions_denied">El Gestor d\'arxius requereix permís per a emmagatzemar per mostrar els teus fitxers.</string>
+  <string name="storage_permissions_explanation">Ves la Configuració i prem a Permisos per concedir el permís.</string>
+  <string name="snackbar_settings">Configuració</string>
 </resources>

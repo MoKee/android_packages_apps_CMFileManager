@@ -388,4 +388,5 @@
   <string name="security_warning_extract">Brīdinājums!\n\nAtarhivējot arhīva failu ar relatīvo vai absolūto ceļu var pārrakstīt sistēmas failus un sabojāt iekārtu.\n\nVai tiešām vēlaties turpināt?</string>
   <string name="changelog_title">Izmaiņu žurnāls</string>
   <string name="welcome_title">Sveicināti</string>
+  <string name="snackbar_settings">Iestatījumi</string>
 </resources>
