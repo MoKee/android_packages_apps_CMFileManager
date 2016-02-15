@@ -403,5 +403,7 @@
   <string name="changelog_title">Registro de mudanças</string>
   <string name="welcome_title">Bem-vindo</string>
   <string name="activity_not_found_exception">Não foi possível encontrar um app para abrir este arquivo</string>
+  <string name="storage_permissions_denied">O gerenciador de arquivos requer permissão para armazenamento, a fim de ver os seus arquivos.</string>
+  <string name="storage_permissions_explanation">Vá até o menu configurações e toque em permissões para conceder a permissão.</string>
   <string name="snackbar_settings">Configurações</string>
 </resources>

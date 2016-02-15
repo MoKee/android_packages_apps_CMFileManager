@@ -416,5 +416,7 @@
   <string name="changelog_title">Ändringslogg</string>
   <string name="welcome_title">Välkommen</string>
   <string name="activity_not_found_exception">Kunde inte hitta en app för att öppna den här filen</string>
+  <string name="storage_permissions_denied">Filhanteraren behöver behörighet till lagring för att kunna visa dina filer.</string>
+  <string name="storage_permissions_explanation">Gå till inställningar och tryck på behörigheter för att bevilja behörighet.</string>
   <string name="snackbar_settings">Inställningar</string>
 </resources>

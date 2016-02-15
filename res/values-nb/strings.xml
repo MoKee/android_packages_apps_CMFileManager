@@ -410,5 +410,6 @@
   <string name="changelog_title">Endringslogg</string>
   <string name="welcome_title">Velkommen</string>
   <string name="activity_not_found_exception">Kunne ikke finne en app for å åpne denne filen</string>
+  <string name="storage_permissions_explanation">Gå til innstillinger, og tapp tillatelser gi tillatelse.</string>
   <string name="snackbar_settings">Innstillinger</string>
 </resources>

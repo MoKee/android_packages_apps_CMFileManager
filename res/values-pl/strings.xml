@@ -412,6 +412,7 @@
   <string name="changelog_title">Lista zmian</string>
   <string name="welcome_title">Witaj</string>
   <string name="activity_not_found_exception">Nie znaleziono aplikacji do otwarcia tego pliku</string>
+  <string name="storage_permissions_denied">Menedżer plików wymaga uprawnienia dostępu do nośnika, aby wyświetlać twoje pliki.</string>
   <string name="storage_permissions_explanation">Przejdź do Ustawień i dotknij Uprawnienia, aby przyznać dostęp.</string>
   <string name="snackbar_settings">Ustawienia</string>
 </resources>

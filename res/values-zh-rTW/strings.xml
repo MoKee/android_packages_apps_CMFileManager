@@ -402,5 +402,7 @@
   <string name="changelog_title">更新日誌</string>
   <string name="welcome_title">歡迎</string>
   <string name="activity_not_found_exception">找不到可開啟此檔案的應用程式</string>
+  <string name="storage_permissions_denied">檔案管理員需要使用儲存空間的權限以檢視檔案。</string>
+  <string name="storage_permissions_explanation">進入設定，然後按一下權限設定以授予權限。</string>
   <string name="snackbar_settings">設定</string>
 </resources>
