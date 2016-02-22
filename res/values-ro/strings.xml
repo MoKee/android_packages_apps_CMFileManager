@@ -399,5 +399,7 @@
   <string name="changelog_title">Istoria schimbărilor</string>
   <string name="welcome_title">Bun venit</string>
   <string name="activity_not_found_exception">Nu s-a găsit o aplicație pentru a deschide acest fișier</string>
+  <string name="storage_permissions_denied">Managerul de fișiere necesită permisiune de stocare pentru a putea vizualiza fișierele tale.</string>
+  <string name="storage_permissions_explanation">Mergi la Setări și apasă Permisiuni pentru acordarea de permisiuni.</string>
   <string name="snackbar_settings">Setări</string>
 </resources>
