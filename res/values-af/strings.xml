@@ -784,7 +784,7 @@
   <!-- ChangeLog - Dialog title -->
   <string name="changelog_title">Veranderinge</string>
   <!-- Welcome Dialog - Title -->
-  <string name="welcome_title">Welkom</string>>
+  <string name="welcome_title">Welkom</string>
   <string name="activity_not_found_exception">Kon nie \'n program vind om hierdie lêer oop te maak</string>
   <string name="storage_permissions_denied">Lêer verkenner vereis toestemming na jou stoor spasie om jou lêers te besigtig.</string>
   <string name="storage_permissions_explanation">Gaan na Instellings en raak Programtoestemmings om toestemming te verleen.</string>
