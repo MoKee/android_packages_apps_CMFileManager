@@ -17,5 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg_mk">Welkom bij de CyanogenMod bestandsbeheerder.\n\nDeze app geeft u de rechten om het bestandssysteem te verkennen en bewerkingen uit te voeren die uw apparaat zouden kunnen breken. Om schade te voorkomen, zal de app beginnen in een veilige, lage-rechten mode.\n\nU kan toegang krijgen tot de geavanceerde, volledige-rechten mode door middel van instellingen. Het is uw verantwoordelijkheid om ervoor te zorgen dat een bewerking niet uw system breken.\n\nOriginele code van het CyanogenMod Team, aangepast voor MoKee OpenSource.</string>
+  <string name="welcome_msg_mk">Selamat datang di CyanogenMod file manager.\n\nAplikasi ini memungkinkan anda untuk menjelajahi sistem file dan melakukan operasi yang dapat merusak perangkat Anda. Untuk mencegah kerusakan, aplikasi akan mulai di tempat mode aman.\n\nAnda bisa mengakses mode lanjutan, penuh melalui Setelan. Ini adalah tanggung jawab anda untuk memastikan bahwa operasi tidak melanggar kode system.\n\nOriginal dari tim CyanogenMod, dimodifikasi untuk MoKee OpenSource.</string>
 </resources>
