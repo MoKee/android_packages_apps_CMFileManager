@@ -768,5 +768,6 @@
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">Impossible de trouver une application pour ouvrir ce fichier</string>
   <string name="storage_permissions_denied">L’explorateur de fichiers requiert une autorisation de stockage afin d\'afficher vos fichiers.</string>
+  <string name="storage_permissions_explanation">Aller dans Paramètres et cliquer sur Autorisations pour accorder l\'autorisation.</string>
   <string name="snackbar_settings">Paramètres</string>
 </resources>

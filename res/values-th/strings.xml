@@ -766,5 +766,7 @@
   <string name="welcome_title">ยินดีต้อนรับ</string>
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">ไม่พบแอปที่เปิดไฟล์นี้ได้</string>
+  <string name="storage_permissions_denied">ตัวจัดการไฟล์ต้องได้รับอนุญาตให้เข้าถึงที่เก็บข้อมูลเพื่อดูไฟล์ของคุณ</string>
+  <string name="storage_permissions_explanation">ไปที่การตั้งค่า แตะสิทธิ์ของแอปเพื่ออนุญาตให้ใช้งาน</string>
   <string name="snackbar_settings">การตั้งค่า</string>
 </resources>
