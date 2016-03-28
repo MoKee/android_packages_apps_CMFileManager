@@ -772,6 +772,7 @@
   <string name="welcome_title">Velkommen</string>
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">Kunne ikke finne en app for å åpne denne filen</string>
+  <string name="storage_permissions_denied">FileManager krever tillatelse til lager for å vise filene.</string>
   <string name="storage_permissions_explanation">Gå til innstillinger, og tapp tillatelser gi tillatelse.</string>
   <string name="snackbar_settings">Innstillinger</string>
 </resources>

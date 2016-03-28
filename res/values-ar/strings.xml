@@ -767,5 +767,7 @@
   <string name="welcome_title">مرحبا</string>
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">تعذر العثور على تطبيق لفتح هذا الملف</string>
+  <string name="storage_permissions_denied">إدارة الملفات تتطلب إذن للتخزين من أجل عرض الملفات الخاصة بك.</string>
+  <string name="storage_permissions_explanation">انتقل إلى إعدادات، وانقر فوق الصلاحيات لمنح إذن.</string>
   <string name="snackbar_settings">إعدادات</string>
 </resources>
