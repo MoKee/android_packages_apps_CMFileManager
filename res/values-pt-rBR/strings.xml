@@ -765,7 +765,7 @@
   <string name="welcome_title">Bem-vindo(a)</string>
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">Não foi possível encontrar um aplicativo para abrir este arquivo</string>
-  <string name="storage_permissions_denied">O gerenciador de arquivos requer permissão para armazenamento, a fim de ver os seus arquivos.</string>
+  <string name="storage_permissions_denied">O gerenciador de arquivos requer permissão de acesso ao armazenamento para ver os seus arquivos.</string>
   <string name="storage_permissions_explanation">Vá até o menu configurações e toque em permissões para conceder a permissão.</string>
   <string name="snackbar_settings">Configurações</string>
 </resources>
