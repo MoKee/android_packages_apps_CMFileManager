@@ -765,5 +765,7 @@
   <string name="welcome_title">Wëllkomm</string>
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">Konnt keng App fanne fir dëse Fichier opzemaachen</string>
+  <string name="storage_permissions_denied">Den Dateimanager brauch Zougrëff op de Späicher, fir deng Dateien unzeweisen.</string>
+  <string name="storage_permissions_explanation">Géi an d\'Astellungen an dréck op Berechtegungen, fir d\'Berechtegung ze verginn.</string>
   <string name="snackbar_settings">Astellungen</string>
 </resources>
