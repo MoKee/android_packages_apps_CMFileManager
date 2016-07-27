@@ -763,7 +763,7 @@
   <!-- ChangeLog - Dialog title -->
   <string name="changelog_title">Dnevnik izmjena</string>
   <!-- Welcome Dialog - Title -->
-  <string name="welcome_title">Dobrodošli</string>
+  <string name="welcome_title">Dobro došli</string>
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">Nije moguće pronaći aplikaciju za otvaranje ove datoteke</string>
   <string name="storage_permissions_denied">Upravitelj datoteka zahtijeva dozvolu za pohranu da bi pokazao datoteke.</string>
