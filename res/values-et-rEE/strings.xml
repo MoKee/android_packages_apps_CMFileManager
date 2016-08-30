@@ -765,5 +765,7 @@
   <string name="welcome_title">Tere tulemast</string>
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">Ei leidnud faili avamiseks rakendust</string>
+  <string name="storage_permissions_denied">Failihaldur vajab failide vaatamiseks õigusi.</string>
+  <string name="storage_permissions_explanation">Õiguste andmiseks avage Sätted alt Õigused.</string>
   <string name="snackbar_settings">Seaded</string>
 </resources>
