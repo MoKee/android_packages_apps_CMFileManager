@@ -17,4 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
+  <string name="welcome_msg_mk">Velkommen til CyanogenMods filhåndtering.\n\nDenne app lader dig udforske filsystemet og udføre handlinger, som kan skade din enhed. For at forebygge skader vil denne app starte i en sikret tilstand med få rettigheder.\n\nDu kan tilgå den avancerede tilstand med alle rettigheder i Indstillinger. Det er dit ansvar at sikre, at en handling ikke skader dit system.\n\nOriginalkodning fra CyanogenMod Teamet modificeret til MoKee OpenSource.</string>
 </resources>
