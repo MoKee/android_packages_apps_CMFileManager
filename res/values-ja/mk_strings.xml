@@ -17,4 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
+  <string name="welcome_msg_mk">CyanogenMod ファイルマネージャーへようこそ.\n\nこのアプリはファイルシステムを操作できますが、あなたのデバイスを壊す可能性がある操作を行うこともできます。損傷を防ぐために、アプリは安全で低特権モードで起動されます.\n\n設定から高度な完全特権モードでアクセスできます。自己責任でシステムを壊さないことを確認して下さい。\n\nOriginal code from CyanogenMod Team, modified for MoKee OpenSource.</string>
 </resources>
