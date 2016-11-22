@@ -17,4 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
+  <string name="welcome_msg_mk">Dobrodošli v CyanogenMod upravitelju.\n\nTa aplikacija vam omogoča, da raziščete datotečni sistem in operacije, ki lahko poškudujejo vašo napravo. Da prepreči škodo, se bo opravitelj najprej zagnal v varnem načinu.\n\nSami lahko nastavite napredni način skozi nastavitve. S tem prevzemate odgovornost, da ne poškodujete sistema.\n\nOriginal iz ekipe CyanogenMod Team, prirejeno za MoKee OpenSource.</string>
 </resources>
