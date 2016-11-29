@@ -766,4 +766,5 @@
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">Bu faylı açacaq tətbiqetmə tapılmadı</string>
   <string name="snackbar_settings">Tənzimləmələr</string>
+  <!-- Wrap mode - toast -->
 </resources>

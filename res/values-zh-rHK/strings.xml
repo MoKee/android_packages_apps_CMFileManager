@@ -761,4 +761,5 @@
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">找不到可開啟此檔案的應用程式</string>
   <string name="snackbar_settings">設定</string>
+  <!-- Wrap mode - toast -->
 </resources>

@@ -751,4 +751,5 @@
   <string name="welcome_title">Sveicināti</string>
   <!-- Welcome Dialog - Message -->
   <string name="snackbar_settings">Iestatījumi</string>
+  <!-- Wrap mode - toast -->
 </resources>

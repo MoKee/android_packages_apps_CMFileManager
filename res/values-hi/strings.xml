@@ -765,4 +765,5 @@
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">इस फ़ाइल को खोलने के लिए कोई ऐप नहीं मिला</string>
   <string name="snackbar_settings">सेटिंग</string>
+  <!-- Wrap mode - toast -->
 </resources>

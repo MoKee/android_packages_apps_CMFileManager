@@ -745,4 +745,5 @@
   <string name="welcome_title">ආයුබෝවන්</string>
   <!-- Welcome Dialog - Message -->
   <string name="snackbar_settings">සැකසීම්</string>
+  <!-- Wrap mode - toast -->
 </resources>

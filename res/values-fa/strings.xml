@@ -766,4 +766,5 @@
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">برنامه‌ای برای بازکردن این فایل یافت نشد</string>
   <string name="snackbar_settings">تنظیمات</string>
+  <!-- Wrap mode - toast -->
 </resources>
