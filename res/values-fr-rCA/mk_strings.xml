@@ -17,4 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
+  <string name="welcome_msg_mk">Bienvenue sur le gestionnaire de fichiers CyanogenMod.\n\nCette application vous permet d\'explorer le système de fichier et effectuer des actions qui pourraient endommager votre appareil. Pour éviter les dommages, l\'application va démarrer avec un mode faibles privilèges.\n\nVous pouvez accéder au mode avancé avec les privilèges élevés via les paramètres. Il est de votre responsabilité de vous assurer qu\'une action n\'endommagera pas votre système.\n\nCode provenant de l\'équipe de CyanogenMod, modifié pour MoKee OpenSource.</string>
 </resources>
