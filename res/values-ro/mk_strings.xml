@@ -17,4 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
+  <string name="welcome_msg_mk">Bine ați venit la managerul de fisiere CyanogenMod. \n\n Această aplicație vă permite să explorați sistemul de fișiere si să executați operații care vă pot defecta dispozitivul. Ca să prevenim aceasta, aplicația va porni intr-un mod sigur, lipsit de permisiuni.\n\n Puteți accesa modul permisii-depline via meniului Setări. Este strict responsabilitatea dvs. să vă asigurați ca operațiile executate nu vă defecteaza dispozitivul mobil.\n\n Codul original de la echipa CyanogenMod, modificat pentru Mokee sursă deschisă.</string>
 </resources>
