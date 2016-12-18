@@ -772,6 +772,9 @@
   <string name="welcome_title">Vitajte</string>
   <!-- Welcome Dialog - Message -->
   <string name="activity_not_found_exception">Nepodarilo sa nájsť aplikáciu na otvorenie tohto súboru</string>
+  <string name="storage_permissions_denied">Správca súborov vyžaduje práva pre prístup na úložisko, aby mohol zobraziť vaše súbory.</string>
+  <string name="storage_permissions_explanation">Prejdite na Nastavenia a kliknutím na Povolenia udelíte požadované oprávnenie.</string>
   <string name="snackbar_settings">Nastavenia</string>
   <!-- Wrap mode - toast -->
+  <string name="toggle_word_wrap_msg">Prepínanie režimu zalomenia slov</string>
 </resources>
