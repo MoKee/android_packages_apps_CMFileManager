@@ -17,4 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
+  <string name="welcome_msg_mk">Welcome aboard th\' CyanogenMod file manager, \n\nThis app allows ye t\' explore the hold of th\' ship and do operations that may sink yer device. T\' prevent sinkage, th\' app will start in a safe, low privileged mode.\n\nYe can access the advanced, full privileged mode via settings. It\'s yer responsibility, as captian to make sure ye cannonfire does not sink ye ship. \n\nOriginal ship from CyanogenMod\'s crew, modified for MoKee OpenSource.</string>
 </resources>
