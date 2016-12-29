@@ -765,7 +765,6 @@
   <!-- Welcome Dialog - Title -->
   <string name="welcome_title">Dobrodošli</string>
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg">Dobrodošli v upravljalniku datotek LineageOS.\n\nTa aplikacija vam dovoli, da raziščete datotečni sistem in izvajate opravila, ki lahko poškodujejo vašo napravo. V izogib škodi se bo aplikacija začela v varnem načinu z nizkimi dovoljenji.\n\nDo naprednega načina z visokimi dovoljenji lahko dostopate v nastavitvah. Vaša odgovornost je zagotoviti, da opravilo ne poškoduje vašega sistema.\n\nEkipa LineageOS</string>
   <string name="activity_not_found_exception">Za odpiranje te datoteke ni bilo mogoče najti aplikacije</string>
   <string name="storage_permissions_denied">Upravljalnik datotek potrebuje dovoljenje za pomnilniško napravo za prikaz vaših datotek.</string>
   <string name="storage_permissions_explanation">Pojdite v Nastavitve in tapnite Dovoljenja za odobritev dovoljenja.</string>

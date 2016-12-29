@@ -765,7 +765,6 @@
   <!-- Welcome Dialog - Title -->
   <string name="welcome_title">Willkommen</string>
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg">Willkommen beim LineageOS-Dateimanager.\n\nMit dieser App können Sie im Dateisystem navigieren und dabei Vorgänge ausführen, die das Gerät beschädigen könnten. Zum Schutz des Geräts startet die App im sicheren Modus mit eingeschränkten Berechtigungen.\n\nErweiterte Modi mit vollen Berechtigungen können in den Einstellungen aktiviert werden.\n\nDas LineageOS-Team</string>
   <string name="activity_not_found_exception">Es konnte keine App zum Öffnen dieser Datei gefunden werden.</string>
   <string name="storage_permissions_denied">Dateimanager benötigt Zugriff auf den Speicher, um Ihre Dateien anzuzeigen.</string>
   <string name="storage_permissions_explanation">Rufen Sie die Einstellungen auf und tippen Sie auf Berechtigungen, um die Berechtigung zu gewähren.</string>

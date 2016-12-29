@@ -766,7 +766,6 @@
   <!-- Welcome Dialog - Title -->
   <string name="welcome_title">Dobro došli</string>
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg">Dobrodošli u LineageOS upravitelj datoteka.\n\nOva aplikacija omogućuje pretraživanje ​​datoteka sustava i izvršavanje operacija koje bi mogle pokvariti vaš uređaj. Da bi se šteta izbjegla, aplikacija počinje u sigurnom načinu rada.\n\nMožete pristupiti naprednom načinu rada sa svim privilegijama putem postavki. Vaša je odgovornost da ne pokvarite svoj ​​sustav.\n\nLineageOS Tim</string>
   <string name="activity_not_found_exception">Nije moguće pronaći aplikaciju za otvaranje ove datoteke</string>
   <string name="storage_permissions_denied">Upravitelj datoteka zahtijeva dozvolu za pohranu da bi pokazao datoteke.</string>
   <string name="storage_permissions_explanation">Idite u Postavke i dodirnite Dozvole za odobravanje dozvole.</string>
