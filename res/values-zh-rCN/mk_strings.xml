@@ -17,5 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg_mk">欢迎您使用 CyanogenMod 文件管理器。 \n\n本应用允许您浏览设备的文件系统并做出可能损害系统的操作。为了避免损害，此程序一开始将默认会在低权限与安全的模式下运行。\n\n您可以通过设置切换到高级并拥有完全控制的模式。确保操作不会损害系统并保持其安全性是您的责任。\n\n源程序代码来自 CyanogenMod 团队，经过修改在 MoKee Open Source 上使用。</string>
+  <string name="welcome_msg_mk">欢迎您使用 CyanogenMod 文件管理器。 \n\n本应用允许您浏览设备的文件系统并做出可能损害系统的操作。为避免损害，此程序默认在低权限的安全模式下运行。\n\n您可以通过设置切换到拥有完整控制权限的高级模式。确保操作不会损害系统并保持其安全性是您的责任。\n\n源程序代码来自 CyanogenMod 团队，经过修改在 MoKee Open Source 上使用。</string>
 </resources>
