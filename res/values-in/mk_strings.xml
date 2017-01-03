@@ -17,5 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg_mk">Selamat datang di pengelola berkas CyanogenMod.\n\nAplikasi ini memungkinkan anda untuk menjelajahi berkas sistem dan melakukan operasi yang dapat merusak perangkat Anda. Untuk mencegah kerusakan, aplikasi akan mulai di mode aman.\n\nAnda bisa mengakses mode hak penuh, melalui Setelan lanjutan. Ini adalah tanggung jawab anda untuk memastikan bahwa operasi tidak merusak system anda.\n\nkode asli dari tim CyanogenMod, dimodifikasi untuk MoKee OpenSource.</string>
+  <string name="welcome_msg_mk">Selamat datang di pengelola berkas CyanogenMod.\n\nAplikasi ini memungkinkan anda untuk menjelajahi berkas system dan melakukan operasi yang dapat merusak perangkat Anda. Untuk mencegah kerusakan, aplikasi akan mulai berjalan di mode aman.\n\nAnda bisa mengakses mode hak penuh, melalui Setelan lanjutan. Ini adalah tanggung jawab anda untuk memastikan bahwa operasi tidak merusak system anda.\n\nkode asli dari tim CyanogenMod, dimodifikasi untuk MoKee OpenSource.</string>
 </resources>
