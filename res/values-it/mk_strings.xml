@@ -17,5 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg_mk">Benvenuti nel file manager targato CyanogenMod.\n\nQuesta applicazione consente di esplorare il file system e di compiere azioni che potrebbero danneggiare il dispositivo. Per prevenire danni, l\'applicazione verrà avviata in modalità non privilegiata.\n\nSi può accedere alle opzioni avanzate e ai privilegi da root dal pannello Impostazioni. L\'utente si assume la piena responsabilità delle azioni che potrebbero danneggiare il sistema.\n\nIl codice originale sviluppato da CyanogenMod Team è stato modificato per il progetto MoKee Open Source.</string>
+  <string name="welcome_msg_mk">Benvenuti nel file manager di CyanogenMod.\n\nQuesta applicazione consente di esplorare il file system e di compiere azioni che potrebbero danneggiare il dispositivo. Per prevenire danni, l\'applicazione verrà avviata in modalità non privilegiata.\n\nPuoi accedere alle opzioni avanzate e ai privilegi di root dal pannello Impostazioni. L\'utente si assume la piena responsabilità delle azioni che potrebbero danneggiare il sistema.\n\nIl codice originale sviluppato dal Team CyanogenMod è stato modificato per il progetto MoKee Open Source.</string>
 </resources>
