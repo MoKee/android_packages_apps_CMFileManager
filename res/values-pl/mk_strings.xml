@@ -17,4 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
+  <string name="welcome_msg_mk">Witaj w menedżerze plików CyanogenMod.\n\nTa aplikacja pozwoli ci przeglądać pliki systemowe i wykonywać operacje, które mogą uszkodzić to urządzenie. Aby zapobiec szkodom, aplikacja zostanie uruchomiona w trybie bezpiecznym (z ograniczonymi możliwościami).\n\nMożesz uzyskać dostęp do trybu zaawansowanego (pełnego) w \"Ustawieniach\". Na tobie spoczywa odpowiedzialność za to, by nie uszkodzić systemu.\n\nOryginalny kod pochodzi od CyanogenMod Team, ten został zmodyfikowany dla MoKee Open Source.</string>
 </resources>
