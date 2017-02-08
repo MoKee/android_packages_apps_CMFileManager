@@ -20,7 +20,7 @@
   <!-- The name of the app -->
   <string name="app_name">Xestor de ficheros</string>
   <!-- The description of the app -->
-  <string name="app_description">Un esplorador de ficheros de LineageOS.</string>
+  <string name="app_description">Un xestor de ficheros de LineageOS</string>
   <!-- Human readable sizes -->
   <string name="size_bytes">B</string>
   <string name="size_kilobytes">KB</string>
@@ -689,7 +689,7 @@
   <!-- Themes - Default theme name -->
   <string name="theme_default_name">Tema claru</string>
   <!-- Themes - Default theme description -->
-  <string name="theme_default_description">Un tema en colores claros pa File Manager.</string>
+  <string name="theme_default_description">Un tema claru pal xestor de ficheros de LineageOS.</string>
   <!-- Themes - Default theme author -->
   <string name="themes_author">LineageOS</string>
   <!-- Navigation drawer -->

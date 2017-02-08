@@ -512,7 +512,7 @@
   <string name="mime_unknown">Desconocido</string>
   <!--  Filetime formats -->
   <string name="filetime_format_mode_system">Definido por el sistema</string>
-  <string name="filetime_format_mode_locale">Definido por configuración regional</string>
+  <string name="filetime_format_mode_locale">Configuración regional</string>
   <string name="filetime_format_mode_ddMMyyyy_HHmmss">dd/mm/aaaa hh:mm:ss</string>
   <string name="filetime_format_mode_MMddyyyy_HHmmss">mm/dd/aaaa hh:mm:ss</string>
   <string name="filetime_format_mode_yyyyMMdd_HHmmss">aaaa-mm-dd hh:mm:ss</string>
@@ -530,7 +530,7 @@
   <string name="category_compress">COMPRIMIR</string>
   <string name="category_exec">EJECUTABLE</string>
   <string name="category_database">BASE DE DATOS</string>
-  <string name="category_font">FUENTE</string>
+  <string name="category_font">TIPO DE LETRA</string>
   <string name="category_image">IMAGEN</string>
   <string name="category_audio">AUDIO</string>
   <string name="category_video">VIDEO</string>
