@@ -17,5 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg_mk">Vitajte v správcovi súborov CyanogenMod.\n\nTáto aplikácia umožňuje prehliadať súborový systém a robiť operácie, ktoré môžu poškodiť vaše zariadenie. Na zabránenie škôd bude aplikácia spustená v Bezpečnom režime.\n\nV nastaveniach môžete zapnúť pokročilý režim s plnými oprávneniami. Je vo Vašej zodpovednosti zabezpečiť, aby operácie nepoškodili Váš systém.\n\nPôvodný kód pochádza z Tímu CyanogenMod a bol modifikovaný pre projekt Mokee OpenSource.</string>
+  <string name="welcome_msg_mk">Vitajte v správcovi súborov CyanogenMod.\n\nTáto aplikácia umožňuje prehliadať súborový systém a robiť operácie, ktoré môžu poškodiť vaše zariadenie. Na zabránenie škôd bude aplikácia spustená v bezpečnom režime.\n\nV nastaveniach môžete zapnúť pokročilý režim s plnými oprávneniami. Je na Vašej zodpovednosti zabezpečiť, aby operácie nepoškodili Váš systém.\n\nPôvodný kód pochádza od Tímu CyanogenMod a bol modifikovaný pre projekt Mokee OpenSource.</string>
 </resources>
