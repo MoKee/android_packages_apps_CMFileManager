@@ -572,7 +572,6 @@
   <!-- ChangeLog - Dialog title -->
   <!-- Welcome Dialog - Title -->
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg">Mirësevini në menaxherin e skedarëve të LineageOS.\n\nKy aplikacion ju mundëson të eksploroni sistemin e skedarëve dhe të kryeni veprime që mund të demtojnë pajisjen tuaj. Për të parandaluar dëmtimet, ky aplikacion do te nisë në një profil të sigurtë dhe me privilegje te kufizuara.\n\nJu mund të aksesoni profilin e avancuar me privilegje të plota nëpërmjet Parametrave. Është përgjegjësia juaj të siguroheni që një veprim nuk do të dëmtojë sistemin tuaj.\n\nEkipi i LineageOS</string>
   <string name="activity_not_found_exception">Nuk u gjet asnjë aplikacion që mund të hapë këtë skedar</string>
   <string name="storage_permissions_explanation">Shko te Parametrat dhe shtyp Lejet për të dhënë lejen.</string>
   <string name="snackbar_settings">Parametrat</string>
